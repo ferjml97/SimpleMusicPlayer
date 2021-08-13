@@ -1,0 +1,46 @@
+{
+    "songs":[
+        {
+            "id": 0,
+            "name":"Bloody Emotions",
+            "artist":"Lil Skies",
+            "path":"music/Bloody_Emotions.mp3",
+            "cover":"cover/unbothered_deluxe.jpg"
+        },
+        {
+            "id": 1,
+            "name":"How You Feel",
+            "artist":"Lil Skies",
+            "path":"music/How_You_Feel.mp3",
+            "cover":"cover/unbothered_deluxe.jpg"
+        },
+        {
+            "id":2,
+            "name":"Fidget",
+            "artist":"Lil Skies",
+            "path":"music/Fidget.mp3",
+            "cover":"cover/fidget.jpg"
+        },
+        {
+            "id":3,
+            "name":"Tell My Haters",
+            "artist":"Lil Skies",
+            "path":"music/Tell_My_Haters.mp3",
+            "cover":"cover/life_of_a_dark_rose.jpg"
+        },
+        {
+            "id":4,
+            "name":"Pop Star",
+            "artist":"Lil Skies",
+            "path":"music/Pop_Star.mp3",
+            "cover":"cover/popstar.jpg"
+        },
+        {
+            "id":5,
+            "name":"Da Sauce",
+            "artist":"Lil Skies",
+            "path":"music/Da_Sauce.mp3",
+            "cover":"cover/da_sauce.jpg"
+        }
+    ]
+}
